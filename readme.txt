@@ -6,9 +6,21 @@ git is free software.
 git is so cool.
 git please help me
 <<<<<<< HEAD
+<<<<<<< HEAD
 creating a new branch is quick & simple.
 
 =======
 creating a new branch is quick AND simple.
 >>>>>>> feature1
 git is a free 
+=======
+
+### creat a new file
+mkdir filename
+### edit the file 
+vim gedit nano
+### add work space
+git add filename
+### commit
+git commit -m 'as you know language'
+>>>>>>> c60ba995ee901da22e5e334b1628587736ec1e45
